@@ -111,13 +111,13 @@
 <body>
     <ul id="user_tools" class="user_tools">
         <li>
-            <a class="action_btn view_more" href="https://www.youtube.com/@LanzaBackrooms" style="color: white;">
+            <a class="follow_user_btn action_btn" href="https://www.youtube.com/@LanzaBackrooms" style="color: white;">
                 <img src="youtube-icon.png" alt="YouTube Icon" width="18" height="16">
                 <span class="full_label">Lanza78 YouTube</span>
             </a>
         </li>
         <li>
-            <a class="follow_user_btn action_btn" data-unfollow_url="https://www.youtube.com/@yolotzy0307" data-register_action="follow_user" href="https://itch.io/login?intent=follow_user&amp;return_to=https%3A%2F%2Fguineu.itch.io%2Ftrastiendas" data-follow_url="https://guineu.itch.io/-/follow?source=game" data-user_id="1494865" style="color: white;">
+            <a class="follow_user_btn action_btn" data-unfollow_url="https://www.youtube.com/@yolotzy0307" data-register_action="follow_user" href="https://www.youtube.com/@yolotzy0307" data-user_id="1494865" style="color: white;">
                 <img src="youtube-icon.png" alt="YouTube Icon" width="18" height="16">
                 <span class="full_label">yolotzy0307 YouTube</span>
             </a>

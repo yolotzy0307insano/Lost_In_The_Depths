@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lost in the Depths</title>
+    <title>Lost In The Depths</title>
     <script type="text/javascript">new I.GameUserTools('#user_tools')</script>
     <style>
         body {
@@ -125,7 +125,7 @@
         <li>
             <a class="action_btn view_more" href="https://www.youtube.com/playlist?list=PLMUnOQXaQW1DId641NvCXRbNXLuWU2tr2&jct=MLNxcnDrJGyHBF9R8KsqjUXKDKStmg" style="color: white;">
                 <img src="Playlist.png" alt="Playlist" width="18" height="16">
-                <span class="full_label">Lost In The Depths Playlist Ost Game</span>
+                <span class="full_label">Lost In The Depths Ost</span>
             </a>
         </li>
     </ul>
@@ -136,7 +136,7 @@
             <p>yolotzy0307</p>
             <p>Lanza78</p>
         </div>
-        <h1>Lost In The Depths</h1>
+        <h1>Lost in the Depths</h1>
         <div class="description">
             <div class="backroom-container">
                 <img src="Backroom.png">
@@ -144,8 +144,8 @@
             </div>
             <h2>Protagonist</h2>
             <div class="protagonist-container">
-                <p>The Protagonist (or TH3 VICT4M) is the main character of the game, his real name is "Luis Roberto" and he is 16 years old, he lived normally, until one day, he made No Clip to The Backrooms when he entered an abandoned place that It looked like a parking lot, arriving at The MEG Base, and after that, The Backrooms.</p>
-                <img src="prota.png">
+                <p>The Protagonist (or TH3 VICT1M) is the main character of the game, his real name is "Luis Roberto" and he is 16 years old, he lived normally, until one day, he made No Clip to The Backrooms when he entered an abandoned place that It looked like a parking lot, arriving at The MEG Base, and after that, The Backrooms.</p>
+                <img src="Prota.png">
             </div>
         </div>
 
@@ -170,14 +170,14 @@
         <p>Level 21 (Demo 3)</p>
         <p>The End (Demo 3)</p>
         <p>Desolation (Demo 3)</p>
-        <p>Road to the Ruins (Demo 3)</p>
+        <p>Carretera a las Ruinas (Demo 3)</p>
         <p>Level 9223372036854775807 (Demo 3)</p>
         <h2>Part 3</h2>
         <p>Level 995 (Demo 4)</p>
         <p>Level 4000 (Demo 4)</p>
         <p>Level 1000 (Demo 4)</p>
         <p>Level 9 (Demo 4)</p>
-        <p>Level ∞ (Demo 4)</p>
+        <p>Level Infinite (Demo 4)</p>
         <p>Level 10 (Demo 4)</p>
         <p>Level 11 (Demo 4)</p>
         <p>Level 12 (Demo 4)</p>
@@ -232,8 +232,8 @@
         <p>Level 148 (Demo 9)</p>
         <p>Level 15 (Demo 9)</p>
         <p>Level 16 (Demo 9)</p>
-        <p>The Whiteout (Demo 9)</p>
-        <p>The Grayout (Demo 9)</p>
+        <p>The White Out (Demo 9)</p>
+        <p>The Gray Out (Demo 9)</p>
         <p>Level 17 (Demo 9)</p>
         <p>Level 292 (Demo 9)</p>
         <p>Level 57 (Demo 9)</p>

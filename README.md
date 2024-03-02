@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lost In The Depths</title>
     <script type="text/javascript">new I.GameUserTools('#user_tools')</script>
+    <link rel="icon" href="loco.ico">
     <style>
         body {
             background: linear-gradient(to top, #190202, #191502);
@@ -125,7 +126,7 @@
         <li>
             <a class="action_btn view_more" href="https://www.youtube.com/playlist?list=PLMUnOQXaQW1DId641NvCXRbNXLuWU2tr2&jct=MLNxcnDrJGyHBF9R8KsqjUXKDKStmg" style="color: white;">
                 <img src="Playlist.png" alt="Playlist" width="18" height="16">
-                <span class="full_label">Lost In The Depths Ost</span>
+                <span class="full_label">Lost In The Depths Playlist Ost Game</span>
             </a>
         </li>
     </ul>
@@ -136,7 +137,7 @@
             <p>yolotzy0307</p>
             <p>Lanza78</p>
         </div>
-        <h1>Lost in the Depths</h1>
+        <h1>Lost In The Depths</h1>
         <div class="description">
             <div class="backroom-container">
                 <img src="Backroom.png">
@@ -145,7 +146,7 @@
             <h2>Protagonist</h2>
             <div class="protagonist-container">
                 <p>The Protagonist (or TH3 VICT1M) is the main character of the game, his real name is "Luis Roberto" and he is 16 years old, he lived normally, until one day, he made No Clip to The Backrooms when he entered an abandoned place that It looked like a parking lot, arriving at The MEG Base, and after that, The Backrooms.</p>
-                <img src="Prota.png">
+                <img src="prota.png">
             </div>
         </div>
 
@@ -177,7 +178,7 @@
         <p>Level 4000 (Demo 4)</p>
         <p>Level 1000 (Demo 4)</p>
         <p>Level 9 (Demo 4)</p>
-        <p>Level Infinite (Demo 4)</p>
+        <p>Level ∞ (Demo 4)</p>
         <p>Level 10 (Demo 4)</p>
         <p>Level 11 (Demo 4)</p>
         <p>Level 12 (Demo 4)</p>
@@ -205,12 +206,12 @@
         <p>Level 202 (Demo 6)</p>
         <p>Level 70 (Demo 6)</p>
         <h2>Part 6</h2>
-        <p>Fake Level 666 (Demo 7)</p>
+        <p>(Fake) Level 666 (Demo 7)</p>
         <p>Level 174 (Demo 7)</p>
         <p>Level 43 (Demo 7)</p>
         <p>Level 51 (Demo 7)</p>
-        <p>The Real Level Death (Demo 7)</p>
-        <p>Fake Level -666 (Demo 7)</p>
+        <p>(True) Level Death (Demo 7)</p>
+        <p>(Fake) Level -666 (Demo 7)</p>
         <p>Level 930 (Demo 7)</p>
         <p>Level -111 (Demo 7)</p>
         <p>Level 189 (Demo 7)</p>
@@ -250,7 +251,7 @@
         <p>Level 1001 (Complete game)</p>
         <p>Level -998 (Complete game)</p>
         <p>Galactic Paradise (Complete game)</p>
-        <p>Run For Your Life (Complete game)</p>
+        <p>Level ! - Run For Your Life (Complete game)</p>
         <p>Level 3998 (Complete game)</p>
         <p>Level 3999 (Complete game)</p>
         <p>Level -998 (Secret)</p>
@@ -275,7 +276,7 @@
         <p>They are Original Levels based on some festivity</p>
         <p>The Spookrooms</p>
         <p>Tomb Level</p>
-        <p>Christmas</p>
+        <p>The Gift Plane</p>
     </div>
     <div class="bosses">
         <h2>Bosses</h2>

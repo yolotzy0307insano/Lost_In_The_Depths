@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lost In The Depths</title>
+    <title>Lost in the Depths</title>
     <script type="text/javascript">new I.GameUserTools('#user_tools')</script>
     <style>
         body {
@@ -170,14 +170,14 @@
         <p>Level 21 (Demo 3)</p>
         <p>The End (Demo 3)</p>
         <p>Desolation (Demo 3)</p>
-        <p>Carretera a las Ruinas (Demo 3)</p>
+        <p>Road to the Ruins (Demo 3)</p>
         <p>Level 9223372036854775807 (Demo 3)</p>
         <h2>Part 3</h2>
         <p>Level 995 (Demo 4)</p>
         <p>Level 4000 (Demo 4)</p>
         <p>Level 1000 (Demo 4)</p>
         <p>Level 9 (Demo 4)</p>
-        <p>Level Infinite (Demo 4)</p>
+        <p>Level ∞ (Demo 4)</p>
         <p>Level 10 (Demo 4)</p>
         <p>Level 11 (Demo 4)</p>
         <p>Level 12 (Demo 4)</p>
@@ -232,8 +232,8 @@
         <p>Level 148 (Demo 9)</p>
         <p>Level 15 (Demo 9)</p>
         <p>Level 16 (Demo 9)</p>
-        <p>The White Out (Demo 9)</p>
-        <p>The Gray Out (Demo 9)</p>
+        <p>The Whiteout (Demo 9)</p>
+        <p>The Grayout (Demo 9)</p>
         <p>Level 17 (Demo 9)</p>
         <p>Level 292 (Demo 9)</p>
         <p>Level 57 (Demo 9)</p>

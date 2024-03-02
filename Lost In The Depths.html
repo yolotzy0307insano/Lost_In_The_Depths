@@ -146,7 +146,9 @@
             <h2>Protagonist</h2>
             <div class="protagonist-container">
                 <p>The Protagonist (or TH3 VICT1M) is the main character of the game, his real name is "Luis Roberto" and he is 16 years old, he lived normally, until one day, he made No Clip to The Backrooms when he entered an abandoned place that It looked like a parking lot, arriving at The MEG Base, and after that, The Backrooms.</p>
+                
                 <img src="¨Prota.png">
+                
                 <img src="prota.png">
 
             </div>

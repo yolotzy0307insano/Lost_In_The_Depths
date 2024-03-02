@@ -20,35 +20,9 @@
             box-shadow: 0 0 15px #ffffff;
             border: 3px solid #FFFFFF;
             border-radius: 4px;
-            position: relative; /* Agregado para alinear las aberraciones */
-        }
-        .container::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-image: url('aberration.png'); /* Cambiar por la imagen de aberración */
-            animation: glitch-effect 2s infinite;
-            z-index: -1;
-        }
-        @keyframes glitch-effect {
-            0% {
-                transform: translate(-2px, -2px);
-            }
-            25% {
-                transform: translate(2px, 2px);
-            }
-            50% {
-                transform: translate(-2px, 2px);
-            }
-            75% {
-                transform: translate(2px, -2px);
-            }
-            100% {
-                transform: translate(-2px, -2px);
-            }
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
         }
         .creators {
             font-size: 14px;
@@ -73,35 +47,6 @@
         .levels p {
             margin: 5px 0;
             font-size: 14px;
-            position: relative; /* Agregado para alinear las aberraciones */
-        }
-        .levels p::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-image: url('aberration.png'); /* Cambiar por la imagen de aberración */
-            animation: glitch-effect 2s infinite;
-            z-index: -1;
-        }
-        @keyframes glitch-effect {
-            0% {
-                transform: translate(-2px, -2px);
-            }
-            25% {
-                transform: translate(2px, 2px);
-            }
-            50% {
-                transform: translate(-2px, 2px);
-            }
-            75% {
-                transform: translate(2px, -2px);
-            }
-            100% {
-                transform: translate(-2px, -2px);
-            }
         }
         .backroom-container {
             display: flex;
@@ -120,18 +65,59 @@
             max-width: 100px;
             margin-left: 20px;
         }
+        .exits, .thematic-levels, .bosses {
+            background-color: #967519; /* Color amarillo */
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 4px;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        .exits {
+            background-image: url('image.png'); /* Imagen de fondo transparente */
+        }
+        .thematic-levels {
+            background-image: url('image2.png'); /* Imagen de fondo transparente */
+        }
+        .bosses {
+            background-image: url('image3.png'); /* Imagen de fondo transparente */
+        }
+        .exits h2, .exits p, .thematic-levels h2, .thematic-levels p, .bosses h2, .bosses p {
+            color: #FFFFFF; /* Letras en blanco */
+            text-shadow: 1px 1px 0px blue, -1px -1px 0px red;
+            animation: glitch 1s infinite;
+        }
+
+        @keyframes glitch {
+            0% {
+                text-shadow: 1px 1px 0px blue, -1px -1px 0px red;
+            }
+            25% {
+                text-shadow: 2px 1px 0px blue, -2px -1px 0px red;
+            }
+            50% {
+                text-shadow: 1px 2px 0px blue, -1px -2px 0px red;
+            }
+            75% {
+                text-shadow: 2px 2px 0px blue, -2px -2px 0px red;
+            }
+            100% {
+                text-shadow: 1px 1px 0px blue, -1px -1px 0px red;
+            }
+        }
     </style>
 </head>
 <body>
     <ul id="user_tools" class="user_tools">
         <li>
-            <a class="follow_user_btn action_btn" href="https://www.youtube.com/@LanzaBackrooms" style="color: white;">
+            <a class="action_btn view_more" href="https://www.youtube.com/@LanzaBackrooms" style="color: white;">
                 <img src="youtube-icon.png" alt="YouTube Icon" width="18" height="16">
                 <span class="full_label">Lanza78 YouTube</span>
             </a>
         </li>
         <li>
-            <a class="follow_user_btn action_btn" data-unfollow_url="https://www.youtube.com/@yolotzy0307" data-register_action="follow_user" href="https://www.youtube.com/@yolotzy0307" data-user_id="1494865" style="color: white;">
+            <a class="follow_user_btn action_btn" data-unfollow_url="https://www.youtube.com/@yolotzy0307" data-register_action="follow_user" href="https://itch.io/login?intent=follow_user&amp;return_to=https%3A%2F%2Fguineu.itch.io%2Ftrastiendas" data-follow_url="https://guineu.itch.io/-/follow?source=game" data-user_id="1494865" style="color: white;">
                 <img src="youtube-icon.png" alt="YouTube Icon" width="18" height="16">
                 <span class="full_label">yolotzy0307 YouTube</span>
             </a>
